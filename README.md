@@ -1,4 +1,7 @@
 # SWA Dashboard
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/swa-dashboard.svg)](https://www.guardrails.io)
+
 Dashboard to monitor and receive alerts for changes in Southwest fare prices.
 
 ![image](https://cloud.githubusercontent.com/assets/6979737/17744714/99f15da2-646e-11e6-8f13-60c716f1e865.png)
